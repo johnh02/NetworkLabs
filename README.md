@@ -8,6 +8,6 @@ These labs demonstrate foundational and intermediate networking concepts I have 
 ## Contents
 Each folder in this repository contains a separate networking lab. Each lab includes:
 - Packet Tracer topology file (.pkt)
-- Network design documentation (PDF)
+- Network design documentation (.pdf)
 - README to quickly explain the purpose and functionality of the lab/topology.
 
