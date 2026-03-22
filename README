@@ -1,0 +1,12 @@
+This repository contains a Cisco Packet Tracer lab demonstrating inter-VLAN routing using a router-on-a-stick topology.
+
+## Files
+- `.pkt` file contains the full network topology and configuration.
+- `.pdf` file explains the network design and topology in detail.
+
+## Overview
+This network demonstrates a simple VLAN-segmented LAN using VLANs 10 and 20. It consists of four PCs, two switches, and one router.
+
+The switches are connected via a trunk link on the Fa0/1 interfaces to allow VLAN traffic to pass between them. 
+
+The router is configured using a router-on-a-stick topology to enable inter-VLAN routing between VLAN 10 and VLAN 20.
